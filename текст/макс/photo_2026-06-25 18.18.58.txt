@@ -1,0 +1,36 @@
+Источник: скриншоты/новые скрины из макса /photo_2026-06-25 18.18.58.jpeg
+Тип: max_screenshot
+Обработано: 2026-06-25T18:28:19
+============================================================
+
+1:46 mO D
+Евгений Костях...
+Был(-а) недавно
+[44919 26 мая
+Характеристики
+http://api.svetofor-mebel.ru/api/vl
+integration/1c/v2/cache/products
+/44919/characteristics
+Модификации
+http://api.svetofor-mebel.ru/ar
+integration/1c/products/449
+/modifications
+Сам товар - не работате
+http://api.svetofor-mebel.ru/ar
+integration/ 1c/products/ exte
+/44919
+11:24 A
+сейчас очередь включил, при
+изменини остатка у товара
+https://demo1.site.zone/admin_sv
+products/15949/edit
+будет по ссылкам меняться
+остаток
+Авторизоваться - Svetofor
+11:28 AM W
+при попадении в отбор
+http://api.svetofor-mebel.ru/api/v1
+integration/1c/v2/cache/products
+?updatedAfter=2026-05-26T07:0
+.000Z
+• Сообщение
